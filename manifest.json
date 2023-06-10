@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Youtube extension",
+  "version": "1.0",
+  "description": "Chrome extension for Summarizing boring youtube videos!!",
+  "action": {
+    "default_popup": "youtube_form.html"
+  },
+  "permissions": ["activeTab"]
+}
